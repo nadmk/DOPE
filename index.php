@@ -30,7 +30,7 @@ $keyNr = array_rand($sentences, 1);
     <param name="movie" value="https://www.youtube.com/embed/<?php echo $random_str ?>?html5=1&amp;rel=0&amp;hl=en_US&amp;version=3"/
     <param name="allowFullScreen" value="true"/>
     <param name="allowscriptaccess" value="always"/>
-    <embed width="640" height="360" src="http://www.youtube.com/embed/<?php echo $random_str ?>?html5=1&amp;rel=0&amp;hl=en_US&amp;version=3" class="youtube-player" type="text/html" allowscriptaccess="always" allowfullscreen="true"/>
+    <embed width="640" height="360" src="https://www.youtube.com/embed/<?php echo $random_str ?>?html5=1&amp;rel=0&amp;hl=en_US&amp;version=3" class="youtube-player" type="text/html" allowscriptaccess="always" allowfullscreen="true"/>
 </object>
 
 		<!-- Footer -->
@@ -44,6 +44,7 @@ $keyNr = array_rand($sentences, 1);
 		<!-- Scripts -->
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
+			
 
 	</body>
 </html>
