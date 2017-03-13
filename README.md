@@ -23,4 +23,4 @@ DOPE is licensed under the wtfpl License. See the LICENSE.md for more informatio
 I am not responsible for any tears that occured while using this App
 
 ## Project Status 
-DOPE current version: 1.0
+DOPE current version: 1.0.1

@@ -27,7 +27,7 @@ $keyNr = array_rand($sentences, 1);
 			</header>
 			
 			<object width="640" height="360">
-    <param name="movie" value="http://www.youtube.com/embed/<?php echo $random_str ?>?html5=1&amp;rel=0&amp;hl=en_US&amp;version=3"/
+    <param name="movie" value="https://www.youtube.com/embed/<?php echo $random_str ?>?html5=1&amp;rel=0&amp;hl=en_US&amp;version=3"/
     <param name="allowFullScreen" value="true"/>
     <param name="allowscriptaccess" value="always"/>
     <embed width="640" height="360" src="http://www.youtube.com/embed/<?php echo $random_str ?>?html5=1&amp;rel=0&amp;hl=en_US&amp;version=3" class="youtube-player" type="text/html" allowscriptaccess="always" allowfullscreen="true"/>
