@@ -7,7 +7,7 @@ Depression On Demand App (DOPE) is a web application that allows you to give you
 ## How it works
 Just refresh the page and it will show you a random quote from the file (quotes.txt) and a random emo song.
 
-##Demo
+## Demo
 Try the page <a href="https://dope.nickadam.me/">here</a>
 
 ## Credits
