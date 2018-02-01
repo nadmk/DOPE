@@ -19,7 +19,7 @@
 			<header id="header">
 				<h1>DOPE</h1>
 				<p>Depression On Demand App</p>
-				<p>"<h4 id="quote"> </h4>"<span id="author"> </span> </p>
+				<p><h4>"<span id="quote"> </span>"</h4> by: <span id="author"> </span> </p>
 			
 			</header>
 			
